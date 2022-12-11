@@ -11,3 +11,10 @@
 
 ## Навыки и умения
 Опытный пользователь ПК и сети Internet Владею программами Ms Office (Word, Excel, MS Access, Outlook), 1С Бухгалтерия.
+
+## Пример кода
+```javascript
+function multiply(a, b){
+      return a * b;
+}
+```
