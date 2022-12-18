@@ -1,0 +1,40 @@
+.header {
+    background-color: rgba(152, 212, 191, 0.7);
+    text-align: left;
+    color: rgb(22, 20, 20);
+    font-size: 20px;
+    line-height: sans-serif;
+    padding: 10px;
+
+}
+.main {
+    background-color: rgba(169, 216, 200, 0.7);
+    text-align: left;
+    color: black;
+    font-size: 20px;
+    line-height: sans-serif;
+    padding: 10px;
+}
+.footer {
+    background-color: rgba(152, 216, 200, 0.7);
+    text-align: left;
+    color: rgb(20, 20, 20);
+    font-size: 20px;
+    line-height: sans-serif;
+    padding: 10px;
+
+}
+.nome1 {
+    color: rgb(10, 10, 70);
+    text-align: left;
+    font-size: 42px;
+    font-style: italic;
+    padding: 10px;
+}
+.nome2 {
+    color: rgb(4, 4, 68);
+    text-align: left;
+    font-size: 36px;
+    font-style: italic;
+    padding: 10px;
+}
